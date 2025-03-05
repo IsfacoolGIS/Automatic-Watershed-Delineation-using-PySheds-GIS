@@ -99,7 +99,7 @@ catch = grid.catchment(x=x_snap, y=y_snap, fdir=fdir, dirmap=dirmap)
 ## 📌 How to Run
 1. Clone the Repository
 ```bash
-git clone https://github.com/IshfaqulStark/Automatic-Watershed-Delineation.git
+git clone https://github.com/IsfacoolGIS/Automatic-Watershed-Delineation.git
 cd Automatic-Watershed-Delineation
 ```
 
